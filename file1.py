@@ -1,2 +1,3 @@
 import Elasticsearch
 import Elementtree
+import awscli
